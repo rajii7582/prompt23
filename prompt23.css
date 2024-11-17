@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+  box-sizing: border-box;
+}html,body{
+    height: 100%;
+    width: 100%;
+}.main{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background-color: rgb(228, 215, 166);
+}.content{
+    height: 70%;
+    width: 50%;
+    background-color: #fff;
+    margin: 10% 20%;
+    padding: 5% 10%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px black;
+
+}h1{
+    font-size: 50px;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}input{
+    margin-bottom: 5%;
+    margin-left: 10%;
+    font-size: 20px;
+}button{
+    background-color: brown;
+    width: 30%;
+    height: 25%;
+    color: aliceblue;
+    border: white;
+    border-radius: 15px;
+    margin-left: 25%;
+  
+}
